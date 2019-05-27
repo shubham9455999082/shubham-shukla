@@ -1,5 +1,5 @@
 <html>  
 <body>  
-<%= "Welcome "+request.getParameter("name") %>  
+<%= "Welcome "+request.getParameter("uname") %>  
 </body>  
 </html>  
